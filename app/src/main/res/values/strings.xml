@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">PCL Health</string>
+    <string name="text2">Adding these details will help us better understand your medical condition.</string>
+    <string name="text1">Complete your Profile</string>
+    <string name="text3">Height</string>
+    <string name="next">Next</string>
+    <string name="profile_completion">Profile Completion</string>
+    <string name="_30">30%</string>
+    <string name="ft">ft</string>
+    <string name="cm">cm</string>
+    <string name="profile_completed">Profile completed!</string>
+    <string name="completed_line">Congrats! Your profile has been \n completed successfully.</string>
+    <string name="okay">Okay</string>
+    <string name="_100">100%</string>
+</resources>
