@@ -57,6 +57,7 @@
         android:layout_marginEnd="30dp"
         android:textOff="@string/cm"
         android:textOn="@string/ft"
+        app:switchTextAppearance="@style/SwitchTextAppearance"
         android:shadowColor="@color/grey"
         android:thumb="@drawable/thumb"
         app:layout_constraintEnd_toEndOf="parent"
